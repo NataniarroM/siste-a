@@ -5,5 +5,5 @@
 Para rodar este programa digite:
 
 ```
-npm install react
+python app.py
 ```
