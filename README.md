@@ -7,3 +7,5 @@ Para rodar este programa digite:
 ```
 python app.py
 ```
+
+:)
